@@ -335,7 +335,7 @@ export const studentsData = [
     name: "Ammanuel",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1XsXsDo7puUSS2GKSs2Zpw50SUQkx0JFS"
+      "https://drive.google.com/uc?export=view&id=1XsXsDo7puUSS2GKSs2Zpw50SUQkx0JFS",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -344,7 +344,7 @@ export const studentsData = [
     name: "Bemnet Geremew",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1Vhvi9Q-52z0L85Q4JmBVpXEd7nT337Be"
+      "https://drive.google.com/uc?export=view&id=1Vhvi9Q-52z0L85Q4JmBVpXEd7nT337Be",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -353,7 +353,7 @@ export const studentsData = [
     name: "Bona Birhanu",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1XrVbHkko6-UZBXzJ2FzkQwtH9g2yfhJA"
+      "https://drive.google.com/uc?export=view&id=1XrVbHkko6-UZBXzJ2FzkQwtH9g2yfhJA",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -362,7 +362,7 @@ export const studentsData = [
     name: "Eshetu",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1nVAV1Do2-Xuc_717XE5p3kUmQSs9srrB"
+      "https://drive.google.com/uc?export=view&id=1nVAV1Do2-Xuc_717XE5p3kUmQSs9srrB",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -371,7 +371,7 @@ export const studentsData = [
     name: "Ephrata",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1HyL9Fhh8eUIpJPikDah_VS7SR6P8OqJY"
+      "https://drive.google.com/uc?export=view&id=1HyL9Fhh8eUIpJPikDah_VS7SR6P8OqJY",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -484,7 +484,7 @@ export const studentsData = [
     name: "Yabets Zewdu",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1iaEXhnt5Z7CrfkRhSE-FQc5Fo1kuO0Na",
+      "https://drive.google.com/uc?export=view&id=1xndX91tW87xvd5GMD9V4EFXwive7rPtj",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -522,7 +522,7 @@ export const studentsData = [
     name: "Beka Fituma",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1dD9-yYCEtTrtna-msbWPzGUU9O-mrjwy"
+      "https://drive.google.com/uc?export=view&id=1dD9-yYCEtTrtna-msbWPzGUU9O-mrjwy",
     ],
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
@@ -540,21 +540,27 @@ export const studentsData = [
   {
     name: "Beamlak Tesfaye",
     quote: "Psalms 23",
-    image_urls: ["https://drive.google.com/uc?export=view&id=1B4gXU2TytYUhTIcbEKxrHHUaVV64ex7G"], // Local images will need to be handled separately
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1B4gXU2TytYUhTIcbEKxrHHUaVV64ex7G",
+    ], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
   {
     name: "Bilisuma Befikadu",
     quote: "How can I repay the Lord for all his goodness to me? Ps 116፥12",
-    image_urls: ["https://drive.google.com/uc?export=view&id=1lUCnghOZT5h-YUSfB8bTYYWFJNk9kvDa"], // Local images will need to be handled separately
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1lUCnghOZT5h-YUSfB8bTYYWFJNk9kvDa",
+    ], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
   {
     name: "Ephrata Zerfu",
     quote: "ታላቅ ድንቅ አምላክ ከኔ ጋራ ነበር፤ ነውም፤ ይሆንማል!!!",
-    image_urls: ["https://drive.google.com/uc?export=view&id=1KdzZT4E974ptochcDH5V1fnCc0srLbzo"], // Local images will need to be handled separately
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1KdzZT4E974ptochcDH5V1fnCc0srLbzo",
+    ], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
@@ -751,7 +757,7 @@ export const studentsData = [
     name: "Daneil Tenkir",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1PiqSRgtO70eMQsWgkxzsLgP-L6CkCvnr"
+      "https://drive.google.com/uc?export=view&id=1PiqSRgtO70eMQsWgkxzsLgP-L6CkCvnr",
     ],
     video_urls: [],
     fieldOfStudy: "Mechanical Engineering",
