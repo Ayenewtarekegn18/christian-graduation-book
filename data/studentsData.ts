@@ -132,7 +132,9 @@ export const studentsData = [
   {
     name: "Heyeman Abdisa",
     quote: "",
-    image_urls: [],
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1FCvVpzNFNvZby_rkIWyIcs4mGVKBEtPp",
+    ],
     video_urls: [],
     fieldOfStudy: "Software Engineering",
   },
@@ -147,9 +149,11 @@ export const studentsData = [
     fieldOfStudy: "Software Engineering",
   },
   {
-    name: "Milki Siraj",
+    name: "Milky Siraj",
     quote: "",
-    image_urls: [],
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1XgHJOx58xAAZMGhnfatwOqDbIViQfbmD",
+    ],
     video_urls: [],
     fieldOfStudy: "Software Engineering",
   },
@@ -164,6 +168,15 @@ export const studentsData = [
     video_urls: [
       "https://drive.google.com/uc?export=view&id=1fdo7C-iSj7A14qZlgKoOcOzhgnSQKLdu",
     ],
+    fieldOfStudy: "Software Engineering",
+  },
+  {
+    name: "Ruth Wossen",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1RamFtjVS7VbYWCCO9M3j17h1sMYQkMM7",
+    ],
+    video_urls: [],
     fieldOfStudy: "Software Engineering",
   },
   {
@@ -183,6 +196,15 @@ export const studentsData = [
       "Taste and see that the Lord is good. Oh, the joys of those who take refuge in him! Psalms 34:8",
     image_urls: [
       "https://drive.google.com/uc?export=view&id=16g1mXYFB1FF_pM4X05NszGg-USZncUn4",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Software Engineering",
+  },
+  {
+    name: "Simeret Belete",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1JMmGPhPMqOyM9sD1tDiS1tGD2Avj4n3G",
     ],
     video_urls: [],
     fieldOfStudy: "Software Engineering",
@@ -229,6 +251,17 @@ export const studentsData = [
     image_urls: [
       "https://drive.google.com/uc?export=view&id=16tjciNeOpueVCrBr2MKkjzT96GoWznl9",
       "https://drive.google.com/uc?export=view&id=12WHYa5twGmj5xZo0wxNYV2jUN8bPRjqs",
+    ],
+    video_urls: [
+      "https://drive.google.com/uc?export=view&id=1csSdW8Gc7lteDiWSPC2FPS1gTJfECj2D",
+    ],
+    fieldOfStudy: "Software Engineering",
+  },
+  {
+    name: "Yosef Shimels",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1kkmYuHDGaquAVCAp15NcbxdvFy94vYuj",
     ],
     video_urls: [
       "https://drive.google.com/uc?export=view&id=1csSdW8Gc7lteDiWSPC2FPS1gTJfECj2D",
@@ -294,18 +327,87 @@ export const studentsData = [
   {
     name: "Sofonias Zewedu",
     quote: `“ ኃይልን በሚሰጠኝ በክርስቶስ ሁሉን እችላለሁ። ” — ፊልጵስዩስ 4፥13`,
-    image_urls: [
-      "https://drive.google.com/uc?export=view&id=1duzfjtJ3ftTsSxgWCrjuZxfuXvBRtGmW",
-    ],
+    image_urls: [],
     video_urls: [],
     fieldOfStudy: "Applied Science",
   },
-
+  {
+    name: "Ammanuel",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1XsXsDo7puUSS2GKSs2Zpw50SUQkx0JFS"
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Bemnet Geremew",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1Vhvi9Q-52z0L85Q4JmBVpXEd7nT337Be"
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Bona Birhanu",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1XrVbHkko6-UZBXzJ2FzkQwtH9g2yfhJA"
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Eshetu",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1nVAV1Do2-Xuc_717XE5p3kUmQSs9srrB"
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Ephrata",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1HyL9Fhh8eUIpJPikDah_VS7SR6P8OqJY"
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Gemechis",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1USe0282buGGAad-fiqDRUlzp0Y1pW1JW",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
   {
     name: "Henok Abera",
     quote: "",
     image_urls: [
       "https://drive.google.com/uc?export=view&id=10OU7Fk2II4KY27Y_ocM8CwtDzNcWqggS",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Hemai",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1a10GIC1WvoEiuGNerzppcYJ2kDt11g0d",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Kidist",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1VypC1fNMkhFnRb67znnuPntvgBCda8-4",
     ],
     video_urls: [],
     fieldOfStudy: "Civil Engineering",
@@ -332,6 +434,33 @@ export const studentsData = [
     fieldOfStudy: "Civil Engineering",
   },
   {
+    name: "Nahom Aberar",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1TSum2c1FsiquMLwZ7v3svAYC12ppph00",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Samuel Seifu",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=115FrcEkwkLWaejoxqZQ8FJDVX1k6b6he",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Temesgen Fiseha",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1_peX1amVNUFhOxuHMDyxzNjbdAysZSOR",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
     name: "Woldeab Asfaw",
     quote: "",
     image_urls: [
@@ -352,6 +481,24 @@ export const studentsData = [
     fieldOfStudy: "Civil Engineering",
   },
   {
+    name: "Yabets Zewdu",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1iaEXhnt5Z7CrfkRhSE-FQc5Fo1kuO0Na",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
+    name: "Yonatan Habtamu",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1iaEXhnt5Z7CrfkRhSE-FQc5Fo1kuO0Na",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Civil Engineering",
+  },
+  {
     name: "Wegene Fikire",
     quote: "For we walk by faith, not by sight",
     image_urls: [
@@ -364,8 +511,18 @@ export const studentsData = [
     name: "Ayantu Demise",
     quote: "",
     image_urls: [
+      "https://drive.google.com/uc?export=view&id=1814BnHi3Xu1lB8QVgJawThy1h8V4TaW1",
       "https://drive.google.com/uc?export=view&id=1Tf5oVZ_JIfeOrUKeqHFNVCRtLZOrCIG8",
       "https://drive.google.com/uc?export=view&id=1zzS6I2w4Ft5ntc-sEA7QhzIUoFdUAMkl",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Electrical Engineering",
+  },
+  {
+    name: "Beka Fituma",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1dD9-yYCEtTrtna-msbWPzGUU9O-mrjwy"
     ],
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
@@ -383,21 +540,21 @@ export const studentsData = [
   {
     name: "Beamlak Tesfaye",
     quote: "Psalms 23",
-    image_urls: [], // Local images will need to be handled separately
+    image_urls: ["https://drive.google.com/uc?export=view&id=1B4gXU2TytYUhTIcbEKxrHHUaVV64ex7G"], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
   {
     name: "Bilisuma Befikadu",
     quote: "How can I repay the Lord for all his goodness to me? Ps 116፥12",
-    image_urls: [], // Local images will need to be handled separately
+    image_urls: ["https://drive.google.com/uc?export=view&id=1lUCnghOZT5h-YUSfB8bTYYWFJNk9kvDa"], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
   {
     name: "Ephrata Zerfu",
     quote: "ታላቅ ድንቅ አምላክ ከኔ ጋራ ነበር፤ ነውም፤ ይሆንማል!!!",
-    image_urls: [], // Local images will need to be handled separately
+    image_urls: ["https://drive.google.com/uc?export=view&id=1KdzZT4E974ptochcDH5V1fnCc0srLbzo"], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
@@ -405,7 +562,9 @@ export const studentsData = [
     name: "Eyasu Iticha Dangiya",
     quote:
       "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe. Proverbs 29:25",
-    image_urls: [], // Local images will need to be handled separately
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=11Mmjt8aRTEhxVCyNWZL1NLiuZSLzznE_",
+    ], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
@@ -413,7 +572,9 @@ export const studentsData = [
     name: "Getu Bekele",
     quote:
       '"In all your ways ACKNOWLEDGE HIM, And He shall DIRECT YOUR PATHS." Proverbs 3÷6',
-    image_urls: [], // Local images will need to be handled separately
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=13sXjjd0dKj-Mv02sWVuEEk7csKSwQGRR",
+    ], // Local images will need to be handled separately
     video_urls: [],
     fieldOfStudy: "Electrical Engineering",
   },
@@ -587,10 +748,28 @@ export const studentsData = [
     fieldOfStudy: "Architecture",
   },
   {
+    name: "Daneil Tenkir",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1PiqSRgtO70eMQsWgkxzsLgP-L6CkCvnr"
+    ],
+    video_urls: [],
+    fieldOfStudy: "Mechanical Engineering",
+  },
+  {
     name: "Dejene Daniel",
     quote: "",
     image_urls: [
       "https://drive.google.com/uc?export=view&id=1GMtqnQdAAmIGPwKG1mdDZr1ZPTUHMWhA",
+    ],
+    video_urls: [],
+    fieldOfStudy: "Mechanical Engineering",
+  },
+  {
+    name: "Kidus",
+    quote: "",
+    image_urls: [
+      "https://drive.google.com/uc?export=view&id=1yUihIP5dmo7_LT4h-dSLgwrEip4h_s4_",
     ],
     video_urls: [],
     fieldOfStudy: "Mechanical Engineering",
@@ -712,7 +891,7 @@ export const studentsData = [
     name: "Moges Zeleke",
     quote: "",
     image_urls: [
-      "https://drive.google.com/uc?export=view&id=1PqSVZe1JCwiMGbuS7N4HTT5xNHik7FDN",
+      "https://drive.google.com/uc?export=view&id=1WGU97giQo1yhHu6rtErIT-8gloAoiSxk",
     ],
     video_urls: [],
     fieldOfStudy: "Mining Engineering",
