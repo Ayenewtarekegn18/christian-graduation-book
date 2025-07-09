@@ -191,7 +191,7 @@ export const studentsData = [
     fieldOfStudy: "Software Engineering",
   },
   {
-    name: "Saron Aweke",
+    name: "Saron Meseret",
     quote:
       "Taste and see that the Lord is good. Oh, the joys of those who take refuge in him! Psalms 34:8",
     image_urls: [
